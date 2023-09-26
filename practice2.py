@@ -3,7 +3,8 @@
 
 # print(fname + " " + lname)
 
-age = 10000
-age += 1
+# age = 10000
+# age += 1
 
-print(age)
+# print(age)
+
