@@ -8,3 +8,5 @@
 
 # print(age)
 
+human = True 
+print(type(human))
