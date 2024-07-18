@@ -23,8 +23,8 @@
 
 # print(animals.get("duck", "nuthin"))
 
-creatures = ["dog", "cat", "dragon"]
-for i, pet in enumerate(creatures):
-	if pet == "cat":
-		creatures[i] = "unicorn"
-		print(creatures)
+# creatures = ["dog", "cat", "dragon"]
+# for i, pet in enumerate(creatures):
+# 	if pet == "cat":
+# 		creatures[i] = "unicorn"
+# 		print(creatures)
